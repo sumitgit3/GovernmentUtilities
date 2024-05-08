@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Land Area Calculator</string>
+    <string name="title_activity_main">Land Area Calculator</string>
+    <string name="package_name">com.dismilcalc.app</string>
+    <string name="custom_url_scheme">com.dismilcalc.app</string>
+</resources>
